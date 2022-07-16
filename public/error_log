@@ -1,0 +1,1 @@
+[22-May-2022 07:08:46 UTC] PHP Fatal error:  Trait 'Illuminate\Database\Eloquent\Factories\HasFactory' not found in /home1/myhoma4s/doctor-dentist.com/doctor-app/app/Slider.php on line 8
